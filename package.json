@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sonsilv222/baby-seagull-bot/issues"
   },
-  "homepage": "https://github.com/sonsilv222/baby-seagull-bot#readme"
+  "homepage": "https://github.com/sonsilv222/baby-seagull-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
